@@ -1,0 +1,14 @@
+.dub
+docs.json
+__dummy.html
+docs/
+gtk_glad_gl3n_test.so
+gtk_glad_gl3n_test.dylib
+gtk_glad_gl3n_test.dll
+gtk_glad_gl3n_test.a
+gtk_glad_gl3n_test.lib
+gtk_glad_gl3n_test-test-*
+*.exe
+*.o
+*.obj
+*.lst
