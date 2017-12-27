@@ -7,7 +7,7 @@
 	"copyright": "Copyright © 2017, qbazd",
 	"license": "proprietary",
     "importPaths": ["."],
-    "sourcePaths": ["./source","./glamour/glamour"],
+    "sourcePaths": ["source","glamour/glamour"],
     "versions": [ "Derelict3", "gl3n" , "console"],
     "dependencies": {
         "gtk-d:gtkd": "~>3.6.0",
