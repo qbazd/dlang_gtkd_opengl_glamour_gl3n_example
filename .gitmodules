@@ -1,0 +1,3 @@
+[submodule "glamour"]
+	path = glamour
+	url = https://github.com/qbazd/glamour.git
